@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 ## String
 |  |
