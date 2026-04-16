@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monia1801/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Monia1801/LeetCode-Practice/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Monia1801/LeetCode-Practice/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
