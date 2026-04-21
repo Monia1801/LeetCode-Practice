@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Monia1801/LeetCode-Practice/tree/master/0441-arranging-coins) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
