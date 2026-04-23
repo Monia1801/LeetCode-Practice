@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Monia1801/LeetCode-Practice/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Monia1801/LeetCode-Practice/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Monia1801/LeetCode-Practice/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
