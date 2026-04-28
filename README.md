@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Monia1801/LeetCode-Practice/tree/master/2615-sum-of-distances) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Monia1801/LeetCode-Practice/tree/master/0441-arranging-coins) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Monia1801/LeetCode-Practice/tree/master/2833-furthest-point-from-origin) |
+## Sorting
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
