@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
 | [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/Monia1801/LeetCode-Practice/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monia1801/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Monia1801/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
 | [2833-furthest-point-from-origin](https://github.com/Monia1801/LeetCode-Practice/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
