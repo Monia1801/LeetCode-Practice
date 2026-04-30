@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Monia1801/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Monia1801/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monia1801/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Monia1801/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
