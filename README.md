@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Monia1801/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Monia1801/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
 | [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
