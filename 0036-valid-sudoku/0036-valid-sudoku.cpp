@@ -18,22 +18,21 @@ public:
                 }
             }
         }
+        for(int r = 0; r < 9; r += 3) {
+        for(int c = 0; c < 9; c += 3) {
+            vector<int> box(10, 0);
 
-          for(int r = 0; r < 9; r += 3) {
-            for(int c = 0; c < 9; c += 3) {
-                vector<int> box(10, 0);
-
-                for(int i = r; i < r + 3; i++) {
-                    for(int j = c; j < c + 3; j++) {
-                        if(board[i][j] != '.') {
-                            int num = board[i][j] - '0';
-                            if(box[num]) return false;
-                            box[num] = 1;
-                        }
+            for(int i = r; i < r + 3; i++) {
+                for(int j = c; j < c + 3; j++) {
+                    if(board[i][j] != '.') {
+                        int num = board[i][j] - '0';
+                        if(box[num]) return false;
+                        box[num] = 1;
                     }
                 }
             }
-          }
-        return true;
+        }
+    }
+    return true;
     }
 };
