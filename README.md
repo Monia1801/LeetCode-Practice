@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [1861-rotating-the-box](https://github.com/Monia1801/LeetCode-Practice/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/Monia1801/LeetCode-Practice/tree/master/2121-intervals-between-identical-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monia1801/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [1861-rotating-the-box](https://github.com/Monia1801/LeetCode-Practice/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [1861-rotating-the-box](https://github.com/Monia1801/LeetCode-Practice/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
 
