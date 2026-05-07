@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Monia1801/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0500-keyboard-row](https://github.com/Monia1801/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0809-expressive-words](https://github.com/Monia1801/LeetCode-Practice/tree/master/0809-expressive-words) |
 | [1861-rotating-the-box](https://github.com/Monia1801/LeetCode-Practice/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Monia1801/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Monia1801/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
 | [0791-custom-sort-string](https://github.com/Monia1801/LeetCode-Practice/tree/master/0791-custom-sort-string) |
+| [0809-expressive-words](https://github.com/Monia1801/LeetCode-Practice/tree/master/0809-expressive-words) |
 | [2418-sort-the-people](https://github.com/Monia1801/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/Monia1801/LeetCode-Practice/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Monia1801/LeetCode-Practice/tree/master/0031-next-permutation) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monia1801/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Monia1801/LeetCode-Practice/tree/master/0696-count-binary-substrings) |
+| [0809-expressive-words](https://github.com/Monia1801/LeetCode-Practice/tree/master/0809-expressive-words) |
 | [1861-rotating-the-box](https://github.com/Monia1801/LeetCode-Practice/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
