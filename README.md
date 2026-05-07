@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Monia1801/LeetCode-Practice/tree/master/0441-arranging-coins) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Monia1801/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Monia1801/LeetCode-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Monia1801/LeetCode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
