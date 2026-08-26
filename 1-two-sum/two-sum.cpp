@@ -44,12 +44,20 @@ public:
 
 
 //-----------------solution 3-----------------
-    unordered_map<int,int> mp;
+    // unordered_map<int,int> mp;
+    // for(int i=0;i<vec.size();i++){
+    //     int req=target-vec[i];
+    //     if(mp.find(req)!=mp.end()) return {mp[req],i};
+    //     mp[vec[i]]=i;
+    //     }
+    // return {};
+
+    unordered_map<int,pair<int,int>> mp;
     for(int i=0;i<vec.size();i++){
-        int req=target-vec[i];
-        if(mp.find(req)!=mp.end()) return {mp[req],i};
-        mp[vec[i]]=i;
-        }
-    return {};
+        int f=target-vec[i];
+        if(mp[f].first) return {i,mp[f].second};
+        mp[vec[i]]={1,i};
+    }
+    return{};
     }
 };
