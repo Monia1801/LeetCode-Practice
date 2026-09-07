@@ -1,10 +1,12 @@
-# Write your MySQL query statement below
-SELECT D.name AS Department,E.name AS Employee,E.salary AS Salary
-FROM Employee AS E
-LEFT JOIN Department AS D
-ON E.departmentId=D.id
-WHERE E.salary=(
-    SELECT MAX(salary)
-    FROM Employee
-    WHERE departmentId=E.departmentId
-);
+SELECT Department,Employee,Salary
+FROM(
+    SELECT d.name as Department,e.name as Employee,e.salary AS Salary,
+    RANK() OVER(
+    PARTITION BY d.name
+    ORDER BY e.salary DESC
+    ) as rnk
+    FROM Employee e
+    LEFT JOIN DEPARTMENT d
+    ON e.departmentId=d.id
+) t
+WHERE rnk=1;
